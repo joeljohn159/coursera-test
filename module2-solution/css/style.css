@@ -67,7 +67,6 @@ h1{
     .col-lg-7, .col-lg-8, .col-lg-9,
     .col-lg-10, .col-lg-11, .col-lg-12{
         float:left;
-        border: 1px solid green;
 
     }
     .col-lg-1{
@@ -117,7 +116,7 @@ h1{
     .col-md-7, .col-md-8, .col-md-9,
     .col-md-10, .col-md-11, .col-md-12{
         float:left;
-        border: 1px solid green;
+        
 
     }
     .col-md-1{
@@ -164,7 +163,7 @@ h1{
     .col-sd-7, .col-sd-8, .col-sd-9,
     .col-sd-10, .col-sd-11, .col-sd-12{
         float:left;
-        border: 1px solid green;
+     
 
     }
     .col-sd-1{
