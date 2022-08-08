@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+#nav-list{
+    margin-top: 10px;
+    transition:  1s ease-out;
+}
+#nav-list a{
+    color: #2f2626;
+    text-align: center;
+}
+#nav-list a:hover{
+    background: #ffffff;
+}
+#nav-list a span{
+    color: rgb(0, 0, 0);
+    font-size: 1.45em;
+}
+#nav-li{
+    background-color: #9eb585;
+}
+#our_menu{
+    font-family: 'Lora', serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #4f3d16;
+}
+
+.content h2{
+    margin-top: 5px;
+    font-size: 1.5em;
+    
+}
+
+.content{
+ background-color: #4f3d16;
+ border: 1px solid #ccc;
+ margin: 0 5px 10px 5px;
+}
+
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color:#988888;
+    font-family: 'Oxygen', sans-serif;
+
+}
+#header-nav{
+    background-color: #c5aa6a;
+    border-radius: 0;
+    border:0;
+    transition: 0.5s;
+}
+
+.navbar-brand{
+    padding-top: 5px;
+}
+
+.navbar-brand h1{
+    font-family: 'Lora', serif;
+    color: rgb(255, 254, 254);
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 0.75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+
+#mobileView{
+    transition: height 1.2s ease;
+}
+
+
+
+
+
+
+
+/*******************************************
+*********************************************
+********************************************/
+
+
+
+
+
+
+
+
+
+
+
